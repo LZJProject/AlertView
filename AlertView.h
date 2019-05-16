@@ -2,8 +2,8 @@
 //  AlertView.h
 //  MyTimLogistics
 //
-//  Created by 麦田计划 on 16/7/8.
-//  Copyright © 2016年 麦田计划. All rights reserved.
+//  Created by 李志佳 on 16/7/8.
+//  Copyright © 2016年. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
