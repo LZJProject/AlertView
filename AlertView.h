@@ -13,5 +13,7 @@
 + (void) addNotifierWithText : (NSString* ) text dismissAutomatically :(BOOL) shouldDismiss;
 + (void) dismissNotifier;
 
+//第一次修改- test
+//111111
 
 @end
